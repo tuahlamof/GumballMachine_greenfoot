@@ -1,0 +1,29 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/extensions/greenfoot.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/bluejcore.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/bluejeditor.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/bluejext.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/AppleJavaExtensions.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/junit-4.11.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/bluej.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/diffutils-1.2.1.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/commons-httpclient-3.1.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/commons-logging-api-1.1.2.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/commons-codec-1.3.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/jl1.0.1.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/opencsv-2.3.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/xom-1.2.9.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/guava-17.0.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/javassist-3.18.0.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/commons-vfs2-2.0.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/httpclient-4.1.1.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/httpcore-4.1.jar:/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/httpmime-4.1.1.jar:/Users/huiyu/study/cs/cmpe_202/lab1/gumball-machine-greenfoot/greenfoot
+-d
+/Users/huiyu/study/cs/cmpe_202/lab1/gumball-machine-greenfoot/greenfoot/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/huiyu/study/cs/cmpe_202/Greenfoot 3.0.4/Greenfoot.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/huiyu/study/cs/cmpe_202/lab1/gumball-machine-greenfoot/greenfoot/Gumball.java
+<---- end of javadoc command ---->
+javadoc: error - fatal error
+1 error

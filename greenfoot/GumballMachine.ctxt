@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GumballMachine
+comment0.text=\n\ This\ is\ the\ GumballMachine.\ If\ you\ insert\ a\ coin\ and\ click\ the\ crank,\ \n\ An\ alien\ inspector\ will\ check\ it.\ Then\ the\ machine\ will\ pick\ randomly\ \n\ either\ a\ GreenPicker\ or\ a\ RandomPicker\ Alien\ to\ serve\ you.\n\ \n\ @author\ (Huiyu\ Yang)\ \n\ @version\ (9/14/16)\n
+comment1.params=
+comment1.target=GumballMachine()
+comment2.params=str
+comment2.target=void\ sendMessage(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=boolean\ checkCoin()
+comment5.params=
+comment5.target=Picker\ selectPicker()
+numComments=6

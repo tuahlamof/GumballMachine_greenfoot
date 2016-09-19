@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\n\ The\ inspector\ will\ check\ the\ coin\ and\ feed\ back\ with\ whether\ the\ payment\ is\ ok.\n\ \n\ @author\ (Huiyu\ Yang)\ \n\ @version\ (9/14/16)\n
+comment1.params=real\ val
+comment1.target=boolean\ checkTheCoin(boolean,\ int)
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Inspector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomPicker
+comment0.text=\n\ This\ Random\ Picker\ pick\ the\ gumball\ randomly\n\ \n\ @author\ (Huiyu\ Yang)\ \n\ @version\ (9/14/16)\n
+comment1.params=
+comment1.target=void\ giveGumBall()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ RandomPicker\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

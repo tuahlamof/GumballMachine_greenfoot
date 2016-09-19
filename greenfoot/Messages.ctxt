@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Messages
+comment0.text=\n\ Message\ that\ will\ show\ the\ state\ of\ the\ gumball\ machine\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Messages()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=str
+comment3.target=void\ setMessage(java.lang.String)
+numComments=4
